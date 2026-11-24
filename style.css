@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 20px;
+  color: #222222;
+  background-color: #ffffff;
+  line-height: 1.6;
+}
+
+header {
+  border-bottom: 2px solid #1a4d7a;
+  margin-bottom: 20px;
+}
+
+h1 {
+  margin-bottom: 0;
+  color: #1a4d7a;
+}
+
+h2 {
+  color: #1a4d7a;
+}
+
+a {
+  color: #1a4d7a;
+}
+
+footer {
+  border-top: 1px solid #cccccc;
+  margin-top: 30px;
+  font-size: 14px;
+  color: #666666;
+}
+
+h3 {
+  margin-top: 25px;
+  color: #333333;
+}
+
+.press-item {
+  margin-bottom: 20px;
+}
+
+.press-item h4 {
+  margin-bottom: 0;
+}
+
+.press-source {
+  margin-top: 0;
+  font-size: 14px;
+  color: #666666;
+}
